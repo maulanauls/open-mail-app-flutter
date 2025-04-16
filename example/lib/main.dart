@@ -1,5 +1,5 @@
+import 'package:custom_open_mail_app/custom_open_mail_app.dart';
 import 'package:flutter/material.dart';
-import 'package:open_mail_app/open_mail_app.dart';
 
 void main() {
   runApp(MaterialApp(home: MyApp()));
